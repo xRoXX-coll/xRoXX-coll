@@ -7,3 +7,4 @@ Hard Skills
 
 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
