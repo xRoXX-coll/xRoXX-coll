@@ -6,5 +6,5 @@
 Hard Skills
 
 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+<img width="96" height="96" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/> <img width="96" height="96" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="96" height="96" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
